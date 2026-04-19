@@ -80,7 +80,7 @@ Avg Tenure = AVERAGE('HR Analytics'[YearsAtCompany])
 ```
 HR-Analytics-Employee-Attrition-Dashboard/
 │
-├── Screenshot 2025-03-21 043142.png    # Dashboard screenshot
+├── AttritionDashboard.png    # Dashboard screenshot
 ├── README.md                           # Project documentation
 ```
 
